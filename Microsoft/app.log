@@ -1,0 +1,123 @@
+2024-07-29 10:01:51,854 INFO Scheduler started
+2024-07-29 10:01:51,856 INFO Added job "<lambda>" to job store "default"
+2024-07-29 10:01:51,858 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2024-07-29 10:01:51,858 INFO [33mPress CTRL+C to quit[0m
+2024-07-29 10:02:15,747 INFO 127.0.0.1 - - [29/Jul/2024 10:02:15] "[32mGET /office365/asdnkas.com HTTP/1.1[0m" 302 -
+2024-07-29 10:02:21,468 INFO Added job "authorized.<locals>.<lambda>" to job store "default"
+2024-07-29 10:02:21,470 INFO 127.0.0.1 - - [29/Jul/2024 10:02:21] "[32mGET /getAToken?code=0.ATsAneaLQm6D702CqwCerwO6zDgEipXUgq5Cqa0E7KA6k5s7AEA.AgABBAIAAAApTwJmzXqdR4BN2miheQMYAgDs_wUA9P-tuEipv1cKkowYjt0VmnYUeC-Dvu29plbOSfu85cN1uoKRMc5SRhw4s3VlDfUDXLcwpgkcITjPn3ufotID0D8aSueXpmf-CcIs2aDdwco1cKfTArBQRcb4g_rzoSvyta8IP20yPwcWfrYqw97FxIvpNuB872IZcgRTD3OR6liZZcZH5LJhbQ6G2qVjz29aZ_evpz4GFETe2pa_bc1jpkm0j2Vy1gshApQ7W8QeDnX6eHy0vhDS26S2XILryo56i3hIsdp54tiXmvLBHn71HZYtdeZm3XFtRFeAdlT28QLdp2y2-5ICAcobBc4Fh3mdSOz7vS3fuYW0Kg0D2K662-1iSM61VWMVxcgodCFBIOVGX3ALU6JkmBJYHEh0oPXAzTouXCVsgLU3Zz7-9XbM65REk88XAajebDewEwKYfAczivFXDG8IWD53_Si98pNnZZkIaeIeu8RPXFMedFhl4uJyGk_0Sjc1jLdUPNDPYq2eIF7SeEew5NoOtsfrAwUObowY3Vkn21mUbAuOkvrebkjdpmQeswkchWuEm7mreo9SJZJsC2qUInvvNoE8Zc0FXWsXZRGOA0nxtG0udeRMoM31nYPxUcyLZrFgp5uBPtexl2pAH1P5GYXpYN9UGKjcTAW_xm4TyIVKmuVoh0KnsX9AVwUyJYaeffyJYrAMek02kEkYh-I5G1zmFqDzGVG7GJOJcrhGf7Zmtd_hoyl3OnHM5OZhHBZ4x3apwJKssHvcXkNsqapZgMnvgrjkJ7f4JZlVywGk9MrF6nwjLbMMaQyVxjaKQrpQ7ADidbyKhCjb9W9vomG9146QedlTC2AAuWJ8wWycf4azkoAXewbyMMZfMmW5gX3z3Q&client_info=eyJ1aWQiOiI4Y2Q3NzU1Yi00ZmM4LTRiYWQtOGNhZi1lOGVmMWM0MjI5ZGQiLCJ1dGlkIjoiNDI4YmU2OWQtODM2ZS00ZGVmLTgyYWItMDA5ZWFmMDNiYWNjIn0&state=uQklIHMFiGRtWUJb&session_state=c88b7655-9952-4677-a465-365637fa0f17 HTTP/1.1[0m" 302 -
+2024-07-29 10:02:23,924 INFO 127.0.0.1 - - [29/Jul/2024 10:02:23] "[33mGET /mail HTTP/1.1[0m" 404 -
+2024-07-29 10:02:51,867 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 10:03:51 IDT)" (scheduled at 2024-07-29 10:02:51.856424+03:00)
+2024-07-29 10:02:51,876 INFO Checking emails for: Itzik Ben Harush
+2024-07-29 10:02:53,576 ERROR Failed to fetch emails for Itzik Ben Harush: {"error":{"code":"MailboxNotEnabledForRESTAPI","message":"The mailbox is either inactive, soft-deleted, or is hosted on-premise."}}
+2024-07-29 10:02:53,578 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 10:03:51 IDT)" executed successfully
+2024-07-29 10:06:36,616 INFO Scheduler started
+2024-07-29 10:06:36,618 INFO Added job "<lambda>" to job store "default"
+2024-07-29 10:06:36,635 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2024-07-29 10:06:36,635 INFO [33mPress CTRL+C to quit[0m
+2024-07-29 11:26:57,571 INFO Scheduler started
+2024-07-29 11:26:57,573 INFO Added job "<lambda>" to job store "default"
+2024-07-29 11:26:57,575 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2024-07-29 11:26:57,575 INFO [33mPress CTRL+C to quit[0m
+2024-07-29 11:27:14,666 INFO 127.0.0.1 - - [29/Jul/2024 11:27:14] "[32mGET /office365/asdasmkd.com HTTP/1.1[0m" 302 -
+2024-07-29 11:27:33,010 INFO Added job "authorized.<locals>.<lambda>" to job store "default"
+2024-07-29 11:27:33,012 INFO 127.0.0.1 - - [29/Jul/2024 11:27:33] "[32mGET /getAToken?code=M.C541_BAY.2.U.b12b92df-0a1b-8178-8850-e81a46d15d8b&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFIT3g4cE53SDdqdHgxZXExZEw1SnVBIiwicHJlZmVycmVkX3VzZXJuYW1lIjoicmVhZGl0emlrQG91dGxvb2suY29tIiwib2lkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTAyYTQtOWI5YjdjOGVkY2ZkIiwidGlkIjoiOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwiaG9tZV9vaWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDJhNC05YjliN2M4ZWRjZmQiLCJ1aWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDJhNC05YjliN2M4ZWRjZmQiLCJ1dGlkIjoiOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIn0&state=uToJmqLIaSQbkBhM HTTP/1.1[0m" 302 -
+2024-07-29 11:27:34,368 INFO 127.0.0.1 - - [29/Jul/2024 11:27:34] "[32mGET /mail HTTP/1.1[0m" 302 -
+2024-07-29 11:27:34,376 INFO Redirected to: asdasmkd.com
+2024-07-29 11:27:34,377 INFO 127.0.0.1 - - [29/Jul/2024 11:27:34] "GET /asdasmkd.com?status_code=200 HTTP/1.1" 200 -
+2024-07-29 11:27:57,575 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:27:57 IDT)" (scheduled at 2024-07-29 11:27:57.572955+03:00)
+2024-07-29 11:27:57,578 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 11:27:58,389 INFO No new email for readitzik@outlook.com
+2024-07-29 11:27:58,390 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:28:57 IDT)" executed successfully
+2024-07-29 11:28:27,941 INFO 127.0.0.1 - - [29/Jul/2024 11:28:27] "[32mGET /office365/asdasmkd.com HTTP/1.1[0m" 302 -
+2024-07-29 11:28:29,853 INFO Added job "authorized.<locals>.<lambda>" to job store "default"
+2024-07-29 11:28:29,855 INFO 127.0.0.1 - - [29/Jul/2024 11:28:29] "[32mGET /getAToken?code=0.ATsAneaLQm6D702CqwCerwO6zDgEipXUgq5Cqa0E7KA6k5s7AEA.AgABBAIAAAApTwJmzXqdR4BN2miheQMYAgDs_wUA9P_PVnPdvQyx5l9BGBJNJQv4kqGMdUtGJPHhwKJSG3yD6PtUNlkmZccslH077qcx8kB5H0LcJQI5dyo-ZrUjysRrNVtAktV7cRZ-SOPWwqSjVcQLcVNO3VmaaeE2uVEx7RETw9S8ZFV4LgdQnhswyaVp8iYvJWNTXmzd7_Gipu0fduwzJCzSt3B5KkwhLKoR6qHo_G5707kHHFFEfDPWIz81cwH1LUWb3tNdgGM_WBqfrrKR66fGfKAJ6MpEMFfgJ-lbTdUa23RlYFRZ1pn2iGvi4iUb0J32KRbrzchJ-Sa6DeGujyQKlvcT1DJu93pigzpNPzyPvFSlNf1dvYY0MUdug-pNz3WlNMPqGUKtUzM6iQIi6ODlL4qb_n3HOq3oSWRNEqVz5OnKF4aJzo2ODEzHZfj7NUlqTH-HQSTb7NrqPykDwx0-1LkBkuWruZEWh5YKE85J3Y2lEVg5QdUsxZjjGMxQ95_tZnifPyq65PqxdaTAWDMmPLSmYmTAzgC8IFGEk5S9DQ1A4Ubo78emHFQKRzOioYIBgUNRjJNK2Bps-8fAbLZCyZtVde8fOUy3b5DP8T-5qz5grJ6EpcPcIF9CBaMaPOfrymdvbpgnTAB4qivO7WeW4Q3ufJcKs_53RQ61ZA-YTbgO-K4sXkUNQiPtCX1I_479VB6-2yp36haJKbgmTRd5dioB1zLFiHuxOMaLfFsiphhJGXpDAnBnLFqoImW4GCBsZDGvh-v6ScLD528KeaOws0B94ogi6UJ7ePQAAOZtOwJXwxhhBxRQSQ0HXwvnhfJs_7TvjvJ6opadPHD_6ZRiSZbsxaRf5rVHidB4lHBVfzIoc9biI5rD_LpZY3_Oz01hJVxn&client_info=eyJ1aWQiOiI4Y2Q3NzU1Yi00ZmM4LTRiYWQtOGNhZi1lOGVmMWM0MjI5ZGQiLCJ1dGlkIjoiNDI4YmU2OWQtODM2ZS00ZGVmLTgyYWItMDA5ZWFmMDNiYWNjIn0&state=LwTCgoYBuJtsXkNd&session_state=c88b7655-9952-4677-a465-365637fa0f17 HTTP/1.1[0m" 302 -
+2024-07-29 11:28:30,771 INFO Removed job check_emails_Itzik Ben Harush
+2024-07-29 11:28:30,774 INFO 127.0.0.1 - - [29/Jul/2024 11:28:30] "[32mGET /mail HTTP/1.1[0m" 302 -
+2024-07-29 11:28:30,794 ERROR Failed to redirect to: asdasmkd.com
+2024-07-29 11:28:30,795 INFO 127.0.0.1 - - [29/Jul/2024 11:28:30] "[35m[1mGET /asdasmkd.com?status_code=500 HTTP/1.1[0m" 500 -
+2024-07-29 11:28:33,015 INFO Running job "authorized.<locals>.<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:29:33 IDT)" (scheduled at 2024-07-29 11:28:33.010241+03:00)
+2024-07-29 11:28:33,017 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 11:28:33,789 INFO No new email for readitzik@outlook.com
+2024-07-29 11:28:33,791 INFO Job "authorized.<locals>.<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:29:33 IDT)" executed successfully
+2024-07-29 11:28:57,576 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:29:57 IDT)" (scheduled at 2024-07-29 11:28:57.572955+03:00)
+2024-07-29 11:28:57,579 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 11:28:58,508 INFO No new email for readitzik@outlook.com
+2024-07-29 11:28:58,510 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:29:57 IDT)" executed successfully
+2024-07-29 11:29:33,017 INFO Running job "authorized.<locals>.<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:30:33 IDT)" (scheduled at 2024-07-29 11:29:33.010241+03:00)
+2024-07-29 11:29:33,019 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 11:29:33,990 INFO No new email for readitzik@outlook.com
+2024-07-29 11:29:33,992 INFO Job "authorized.<locals>.<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 11:30:33 IDT)" executed successfully
+2024-07-29 15:58:39,005 INFO Scheduler started
+2024-07-29 15:58:39,007 INFO Added job "<lambda>" to job store "default"
+2024-07-29 15:58:39,010 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:5000
+2024-07-29 15:58:39,010 INFO [33mPress CTRL+C to quit[0m
+2024-07-29 15:59:12,982 INFO 127.0.0.1 - - [29/Jul/2024 15:59:12] "[32mGET /office365/asdasmkd.com HTTP/1.1[0m" 302 -
+2024-07-29 15:59:14,801 INFO Added job "authorized.<locals>.<lambda>" to job store "default"
+2024-07-29 15:59:14,804 INFO 127.0.0.1 - - [29/Jul/2024 15:59:14] "[32mGET /getAToken?code=0.ATsAneaLQm6D702CqwCerwO6zDgEipXUgq5Cqa0E7KA6k5s7AEA.AgABBAIAAAApTwJmzXqdR4BN2miheQMYAgDs_wUA9P_CO6BZUvK2mwXUJDjWF2Wc3YW_wszCzzTcaEVMOO2QRjtlkce0aM9FEqBM9aGNor1poK2JV7c_NAZ2NRytNT0MWJxatIa8gxDhvCuJHj-sVGC2na1hs8qYlCCAbQJ_nDKVMW4DIbiM4fkjlz_xpezRQrXbdSjCPT--L64xIbeDhgByQH8QV0LKvU3uyjoQOfbBNQ8CiKs-qGhV1wMwjIkbE87t0iTmW197epKxUNfa2mFSjyHQcvyjspm-RStk5vpCklz8uR3WmVuGhSASoRCb3ZXSC9MX33liV4cirB_kQ3X6M_3MyhbJdKcMW1bg4LydiSSWO6YKkTmOsq71vPqp5vSzUM3MF0RQ8GZgWpTPof2M73xusyOt7yHWCB2__-58R6pnZufGb-ReLnBA96u1WmUl3FeuMCLovbED96iXhsuEDePIWFAsx9YrCNCPSV39CHVfAql23GNxVU4TiA4Kz9phYG3i5OVoBaIq6JZZCmKH3TAE7j1O8RyxwXUq2qx9BvN3QURuhbu1uHSjra_khqFBpaw1rtXvHJQlcdcZk1vA5BXP4peBcNhfctbwT7JqrnBNSSlCioQ0SczV0VY_gGBrFXv8QUB6VYOwAycKKLiolezlicm_SMZcYoZrSL4acsjlUvbRK-_f1E2VNKQOMu-IU6BL8gd62H91WvC_mntWegQw-HgCjP9cf-z4Plxm7qHWc4gbQpA4j55yOJsWW4Y_9BVgToh-Xqe49kU53LLtUsNSr21-pT5_iSmZ94LWrHCGvjsWoVo9L0GC4TSZ-B-6L4SbitFnEJEjxVifNBahTp_DDudkhFNFWnr4ZVJc8DlcM8cWz2sNE8-Ak1naJ_rpHmq2NA&client_info=eyJ1aWQiOiI4Y2Q3NzU1Yi00ZmM4LTRiYWQtOGNhZi1lOGVmMWM0MjI5ZGQiLCJ1dGlkIjoiNDI4YmU2OWQtODM2ZS00ZGVmLTgyYWItMDA5ZWFmMDNiYWNjIn0&state=EiZveyJFaLIWfNYz&session_state=c88b7655-9952-4677-a465-365637fa0f17 HTTP/1.1[0m" 302 -
+2024-07-29 15:59:15,614 INFO Removed job check_emails_Itzik Ben Harush
+2024-07-29 15:59:15,617 INFO 127.0.0.1 - - [29/Jul/2024 15:59:15] "[32mGET /mail HTTP/1.1[0m" 302 -
+2024-07-29 15:59:15,635 ERROR Failed to redirect to: asdasmkd.com
+2024-07-29 15:59:15,636 INFO 127.0.0.1 - - [29/Jul/2024 15:59:15] "[35m[1mGET /asdasmkd.com?status_code=500 HTTP/1.1[0m" 500 -
+2024-07-29 15:59:39,014 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 15:59:39 IDT)" (scheduled at 2024-07-29 15:59:39.007381+03:00)
+2024-07-29 15:59:39,018 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 15:59:40,419 INFO No new email for readitzik@outlook.com
+2024-07-29 15:59:40,422 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:00:39 IDT)" executed successfully
+2024-07-29 16:00:39,010 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:01:39 IDT)" (scheduled at 2024-07-29 16:00:39.007381+03:00)
+2024-07-29 16:00:39,015 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:00:40,219 INFO No new email for readitzik@outlook.com
+2024-07-29 16:00:40,224 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:01:39 IDT)" executed successfully
+2024-07-29 16:01:39,011 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:02:39 IDT)" (scheduled at 2024-07-29 16:01:39.007381+03:00)
+2024-07-29 16:01:39,019 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:01:40,211 INFO No new email for readitzik@outlook.com
+2024-07-29 16:01:40,216 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:02:39 IDT)" executed successfully
+2024-07-29 16:02:39,009 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:03:39 IDT)" (scheduled at 2024-07-29 16:02:39.007381+03:00)
+2024-07-29 16:02:39,012 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:02:40,853 INFO No new email for readitzik@outlook.com
+2024-07-29 16:02:40,859 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:03:39 IDT)" executed successfully
+2024-07-29 16:03:39,023 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:04:39 IDT)" (scheduled at 2024-07-29 16:03:39.007381+03:00)
+2024-07-29 16:03:39,036 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:03:42,292 INFO No new email for readitzik@outlook.com
+2024-07-29 16:03:42,297 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:04:39 IDT)" executed successfully
+2024-07-29 16:04:39,016 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:05:39 IDT)" (scheduled at 2024-07-29 16:04:39.007381+03:00)
+2024-07-29 16:04:39,022 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:04:41,837 INFO No new email for readitzik@outlook.com
+2024-07-29 16:04:41,841 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:05:39 IDT)" executed successfully
+2024-07-29 16:05:39,015 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:06:39 IDT)" (scheduled at 2024-07-29 16:05:39.007381+03:00)
+2024-07-29 16:05:39,021 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:05:40,507 INFO No new email for readitzik@outlook.com
+2024-07-29 16:05:40,511 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:06:39 IDT)" executed successfully
+2024-07-29 16:06:39,012 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:07:39 IDT)" (scheduled at 2024-07-29 16:06:39.007381+03:00)
+2024-07-29 16:06:39,017 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:06:40,386 INFO No new email for readitzik@outlook.com
+2024-07-29 16:06:40,391 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:07:39 IDT)" executed successfully
+2024-07-29 16:07:39,010 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:08:39 IDT)" (scheduled at 2024-07-29 16:07:39.007381+03:00)
+2024-07-29 16:07:39,014 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:07:40,328 INFO No new email for readitzik@outlook.com
+2024-07-29 16:07:40,332 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:08:39 IDT)" executed successfully
+2024-07-29 16:08:39,015 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:09:39 IDT)" (scheduled at 2024-07-29 16:08:39.007381+03:00)
+2024-07-29 16:08:39,020 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:08:40,211 INFO No new email for readitzik@outlook.com
+2024-07-29 16:08:40,214 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:09:39 IDT)" executed successfully
+2024-07-29 16:09:39,013 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:10:39 IDT)" (scheduled at 2024-07-29 16:09:39.007381+03:00)
+2024-07-29 16:09:39,017 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:09:40,493 INFO No new email for readitzik@outlook.com
+2024-07-29 16:09:40,497 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:10:39 IDT)" executed successfully
+2024-07-29 16:10:39,010 INFO Running job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:11:39 IDT)" (scheduled at 2024-07-29 16:10:39.007381+03:00)
+2024-07-29 16:10:39,014 INFO Checking emails for: readitzik@outlook.com
+2024-07-29 16:10:40,539 INFO No new email for readitzik@outlook.com
+2024-07-29 16:10:40,543 INFO Job "<lambda> (trigger: interval[0:01:00], next run at: 2024-07-29 16:11:39 IDT)" executed successfully
+2024-07-31 11:35:01,901 INFO Scheduler started
+2024-07-31 11:35:01,903 INFO Added job "<lambda>" to job store "default"
+2024-07-31 11:35:21,095 INFO Scheduler started
+2024-07-31 11:35:21,098 INFO Added job "<lambda>" to job store "default"
+2024-07-31 11:35:50,712 INFO Scheduler started
+2024-07-31 11:35:50,714 INFO Added job "<lambda>" to job store "default"
+2024-07-31 11:35:50,717 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:8000
+ * Running on https://10.212.134.100:8000
+2024-07-31 11:35:50,717 INFO [33mPress CTRL+C to quit[0m
